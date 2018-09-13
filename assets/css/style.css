@@ -1,0 +1,172 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(../images/qbkls.png);
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom-style: solid;
+    border-color: #cccccc;
+    display: block;
+    width: 100%;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    color: #777777;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a:hover {
+    color: teal;
+}
+
+p {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 960px;
+    padding: 0px;
+}
+
+.navbar {
+    padding: 0px;
+}
+
+.navbar-toggler {
+    margin-right: 20px;
+}
+
+#navbar7 {
+    padding-right: 20px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #ffffff !important;
+    font-size: 2rem;
+    padding: 20px;
+    margin: 0px;
+}
+
+.main {
+    background-color: #ffffff;
+    padding: 0px;
+    box-sizing: border-box;
+    margin-bottom: 100px;
+}
+
+.row {
+    margin: 0px;
+}
+
+.main_header {
+    padding: 20px 20px 0px 20px;
+    margin-top: 20px;
+    color: #4aaaa5;
+}
+
+.page_title {
+    width: 100%;
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: #dddddd;
+}
+
+.main_content {
+    display: inline;
+    padding: 0px 20px 20px 20px;
+    width: 100%;
+}
+
+.bio_pic {
+    float: left;
+    height: 150px;
+    margin: 20px 20px 0px 0px;
+    width: 150px;
+}
+
+.bio_text {
+    padding-right: 20px;
+    margin: 20px 0px 0px 0px;
+}
+
+.footer_sticky {
+    height: 40px;
+}
+
+.footer {
+    background-color: #666666;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    margin-top: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+img {
+    height: 290px;
+    width: 290px;
+}
+
+.col-xs-12 {
+    height: 290px;
+
+    margin-bottom: 20px;
+}
+
+.col-sm-12 {
+    height: 290px;
+
+    margin-bottom: 20px;
+}
+
+.col-md-4 {
+    height: 290px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-lg-4 {
+    height: 290px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tile {
+    width: 290px;
+    height: 290px;
+}
+
+.tile_label {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    top: -90px;
+    width: 290px;
+}
