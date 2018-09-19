@@ -32,6 +32,12 @@ $(document).ready(function () {
             imgURL: "wk5-world-trivia.PNG",
             gameURL: "https://parkmee.github.io/TriviaGame",
         },
+        {
+            title: "World Trivia",
+            description: "Giphy edition! Test your knowledge of world geography and culture in a race against the timer",
+            imgURL: "wk5-world-trivia-v2.PNG",
+            gameURL: "https://parkmee.github.io/TriviaGame-v2",
+        },
     ]
 
     displayPortfolio();
