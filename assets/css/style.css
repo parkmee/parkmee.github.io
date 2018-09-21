@@ -62,7 +62,7 @@ form {
     height: 800px;
     position: relative;
     right: -115px;
-    top: 100px;
+    top: 200px;
 }
 
 #message {
@@ -106,6 +106,7 @@ form {
         position: relative;
         top: 175px;
     }
+}
 }
 
 @media (max-width: 576px) {
