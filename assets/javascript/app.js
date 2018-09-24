@@ -28,15 +28,21 @@ $(document).ready(function () {
         },
         {
             title: "World Trivia",
-            description: "Test your knowledge of world geography and culture in a race against the timer",
+            description: "Test your knowledge of world geography and culture in a race against the timer.",
             imgURL: "wk5-world-trivia.PNG",
             gameURL: "https://parkmee.github.io/TriviaGame",
         },
         {
             title: "World Trivia",
-            description: "Giphy edition! Test your knowledge of world geography and culture in a race against the timer",
+            description: "Giphy edition! Test your knowledge of world geography and culture in a race against the timer.",
             imgURL: "wk5-world-trivia-v2.PNG",
             gameURL: "https://parkmee.github.io/TriviaGame-v2",
+        },
+        {
+            title: "Video Game GIFs",
+            description: "Add and search for gifs of your favorite video games. CLick on the images to animate them.",
+            imgURL: "wk-6-video-game-gifs.PNG",
+            gameURL: "https://parkmee.github.io/giphy-search-tool",
         },
     ]
 
