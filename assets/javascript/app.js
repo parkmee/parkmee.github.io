@@ -44,6 +44,12 @@ $(document).ready(function () {
             imgURL: "wk-6-video-game-gifs.PNG",
             gameURL: "https://parkmee.github.io/giphy-search-tool",
         },
+        {
+            title: "Train Schedule",
+            description: "See a schedule of trains and see their nearest time of arrival and minutes left to arrival.",
+            imgURL: "wk-7-train-schedule.PNG",
+            gameURL: "https://parkmee.github.io/train-schedule/",
+        },
     ]
 
     displayPortfolio();
