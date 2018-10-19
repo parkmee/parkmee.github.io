@@ -1,4 +1,8 @@
 /* Background */
+body {
+    overflow-x: hidden;
+}
+
 #bg-video {
     position: fixed;
     right: 0;
@@ -33,6 +37,26 @@
     font-size: 40px;
 }
 
+@media (max-width: 375px) {
+    .contact-me-wrapper {
+        height: 600px;
+    }
+}
+
+@media (max-width: 360px) {
+    .contact-me-wrapper {
+        height: 450px;
+    }
+
+    #my-name {
+        margin-left: 25px;
+    }
+
+    #bio-statement {
+        margin: 0px 5px 0px 15px !important;
+    }
+}
+
 .contact-me, .project-link {
     color: ghostwhite;
 }
@@ -54,6 +78,7 @@
 /* Portfolio */
 .portfolio-wrapper {
     background-color: #343a40;
+    width: 100%;
 }
 
 .section-title {
@@ -97,17 +122,13 @@ form {
     width: 100%
 }
 
-
-
 .project-description {
     margin: 0px 5px;
     color: ghostwhite;
 }
 
 .project-item {
-    width: 400px;
-    height: 400px;
-    margin: 20px 0px 10px 60px;
+    margin: 20px 0px 10px 20px;
     background-color: #343a40;
 }
 
