@@ -8,6 +8,24 @@
     z-index: -1;
 }
 
+/* Navbar */
+
+.navbar {
+    width: 100%;
+}
+
+#my-name {
+    font-family: "Poppins", sans-serif !important;
+    margin-left: 28px;
+}
+
+#bio-statement {
+    margin-right: 20px;
+    font-family: 'Poiret One', cursive;
+    color: ghostwhite;
+    font-size: 20px;
+}
+
 /* Contact Me */
 .contact-me-wrapper {
     height: 750px;
@@ -80,13 +98,6 @@ form {
 }
 
 
-.navbar {
-    width: 100%;
-}
-
-.navbar-toggler {
-    margin-right: 20px;
-}
 
 .project-description {
     margin: 0px 5px;
@@ -102,20 +113,4 @@ form {
 
 .project-title {
     color: ghostwhite;
-}
-
-#message {
-    height: 200px;
-}
-
-#my-name {
-    font-family: "Poppins", sans-serif !important;
-    margin-left: 20px;
-}
-
-#bio-statement {
-    margin-right: 20px;
-    font-family: 'Poiret One', cursive;
-    color: ghostwhite;
-    font-size: 20px;
 }
