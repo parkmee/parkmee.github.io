@@ -24,12 +24,21 @@
     margin: 0px 5px;
 }
 
+.email-wrapper {
+    position: relative;
+    bottom: 300px;
+}
+
+.jumbotron {
+    color: ghostwhite;
+}
+
 /* Portfolio */
 .portfolio-wrapper {
     background-color: #343a40;
 }
 
-.portfolio-title {
+.section-title {
     color: ghostwhite;
     font-size: 40px;
     margin: 15px 0px 30px 0px;

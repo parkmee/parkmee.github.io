@@ -23,13 +23,13 @@ $(document).ready(function () {
             gameURL: "https://parkmee.github.io/unit-4-game",
             githubURL: "https://github.com/parkmee/unit-4-game",
         },
-        {
+        /* {
             title: "Cat Fight!",
             description: "Select your cat and defeat all the other alley cats for the prize...a can of half eaten tuna. Yum!",
             imgURL: "wk4-cat-fight.PNG",
             gameURL: "https://parkmee.github.io/cat-fight",
             githubURL: "https://github.com/parkmee/cat-fight",
-        },
+        }, */
         {
             title: "World Trivia",
             description: "Test your knowledge of world geography and culture in a race against the timer.",
@@ -58,6 +58,13 @@ $(document).ready(function () {
             gameURL: "https://parkmee.github.io/train-schedule/",
             githubURL: "https://github.com/parkmee/train-schedule",
         },
+        {
+            title: "DishIt",
+            description: "Feed your food craving. Search for and rate dishes at restaurants in your area.",
+            imgURL: "dishit.PNG",
+            gameURL: "https://mjkelley354.github.io/DishIt/",
+            githubURL: "https://github.com/mjkelley354/DishIt",
+        },
     ]
 
 
@@ -81,9 +88,8 @@ $(document).ready(function () {
                         </div>
                         <div class="row">
                             <div class="col text-center">
-                            <a href="https://github.com/parkmee" target="_blank"><i class="project-link fab fa-github-alt"></i></a>
-                            <a href="${projects[j].gameURL}"" target="_blank">
-                            <a href="portfolio.html"><i class="project-link fas fa-image"></i></a>
+                            <a href="${projects[j].githubURL}" target="_blank"><i class="project-link fab fa-github-alt"></i></a>
+                            <a href="${projects[j].gameURL}" target="_blank"><i class="project-link fas fa-image"></i></a>
                             </div>
                         </div>
                     </row>
@@ -95,6 +101,10 @@ $(document).ready(function () {
             j++;
         }
     }
+
+    $(".email-icon").on("click", function() {
+        window.location.href = `mailto:parkmee@gmail.com?subject=I saw your awesome portfolio`;
+    })
 
 
 })
