@@ -46,7 +46,7 @@ $(document).ready(function () {
         },
         {
             title: "Video Game GIFs",
-            description: "Add and search for gifs of your favorite video games. CLick on the images to animate them.",
+            description: "Add and search for gifs of your favorite video games. Click on the images to animate them.",
             imgURL: "wk-6-video-game-gifs.PNG",
             gameURL: "https://parkmee.github.io/giphy-search-tool",
             githubURL: "https://github.com/parkmee/giphy-search-tool",
