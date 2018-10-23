@@ -65,6 +65,13 @@ $(document).ready(function () {
             gameURL: "https://mjkelley354.github.io/DishIt/",
             githubURL: "https://github.com/mjkelley354/DishIt",
         },
+        {
+            title: "LIRI Bot",
+            description: "Find concerts, movies, and songs using a Language Interpretation and Recognition Interface (LIRI) Bot.",
+            imgURL: "liri-bot.png",
+            gameURL: "https://parkmee.github.io/liri-clone-app/",
+            githubURL: "https://github.com/parkmee/liri-clone-app"
+        }
     ]
 
 
