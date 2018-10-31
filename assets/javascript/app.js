@@ -30,13 +30,13 @@ $(document).ready(function () {
             gameURL: "https://parkmee.github.io/cat-fight",
             githubURL: "https://github.com/parkmee/cat-fight",
         }, */
-        {
+        /* {
             title: "World Trivia",
             description: "Test your knowledge of world geography and culture in a race against the timer.",
             imgURL: "wk5-world-trivia.PNG",
             gameURL: "https://parkmee.github.io/TriviaGame",
             githubURL: "https://github.com/parkmee/TriviaGame",
-        },
+        }, */
         {
             title: "World Trivia",
             description: "Giphy edition! Test your knowledge of world geography and culture in a race against the timer.",
