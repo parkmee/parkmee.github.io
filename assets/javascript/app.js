@@ -74,7 +74,7 @@ $(document).ready(function () {
         },
         {
             title: "CLI Hangman",
-            description: "Guess randomly selected words in this command line interface hangman game.",
+            description: "Learn new words and definitions as you try to guess the letters in this command line interface game.",
             imgURL: "hangman_img.jpg",
             gameURL: "https://parkmee.github.io/CLI-guessing-game",
             githubURL: "https://github.com/parkmee/CLI-guessing-game"
