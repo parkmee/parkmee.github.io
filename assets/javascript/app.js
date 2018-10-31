@@ -71,6 +71,13 @@ $(document).ready(function () {
             imgURL: "liri-bot.png",
             gameURL: "https://parkmee.github.io/liri-clone-app/",
             githubURL: "https://github.com/parkmee/liri-clone-app"
+        },
+        {
+            title: "CLI Hangman",
+            description: "Guess randomly selected words in this command line interface hangman game.",
+            imgURL: "hangman_img.jpg",
+            gameURL: "https://parkmee.github.io/CLI-guessing-game",
+            githubURL: "https://github.com/parkmee/CLI-guessing-game"
         }
     ]
 
