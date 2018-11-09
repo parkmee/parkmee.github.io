@@ -78,6 +78,13 @@ $(document).ready(function () {
             imgURL: "hangman_img.jpg",
             gameURL: "https://parkmee.github.io/CLI-guessing-game",
             githubURL: "https://github.com/parkmee/CLI-guessing-game"
+        },
+        {
+            title: "Blamazon",
+            description: "Full service shopping, inventory, and sales app for customers, managers, and supervisors.",
+            imgURL: "blamazon.jpg",
+            gameURL: "https://parkmee.github.io/blamazon",
+            githubURL: "https://github.com/parkmee/blamazon"
         }
     ]
 
