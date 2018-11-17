@@ -89,7 +89,7 @@ $(document).ready(function () {
         {
             title: "Friend Finder",
             description: "Looking for a friend? Take this 10-question survey to find your perfect match in life or love.",
-            imgURL: "friend-finder.png",
+            imgURL: "friend-finder.PNG",
             gameURL: "https://friend-finder-mmp.herokuapp.com/",
             githubURL: "https://github.com/parkmee/friend-finder"
         }
