@@ -85,6 +85,13 @@ $(document).ready(function () {
             imgURL: "blamazon.jpg",
             gameURL: "https://parkmee.github.io/blamazon",
             githubURL: "https://github.com/parkmee/blamazon"
+        },
+        {
+            title: "Friend Finder",
+            description: "Looking for a friend? Take this 10-question survey to find your perfect match in life or love.",
+            imgURL: "friend-finder.png",
+            gameURL: "https://parkmee.github.io/friend-finder",
+            githubURL: "https://github.com/parkmee/friend-finder"
         }
     ]
 
