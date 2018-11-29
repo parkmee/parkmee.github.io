@@ -95,7 +95,7 @@ $(document).ready(function () {
         },
         {
             title: "It's Burger Time",
-            description: "Add a burger. Eat a burger. Demonstrates use of MySQL, custom ORMs, and Heroku.",
+            description: "Add a burger. Eat a burger. Demonstrates use of MySQL, custom ORMs, Express, Node.js, and Heroku.",
             imgURL: "burger-app.PNG",
             gameURL: "https://me-eat-burger.herokuapp.com/",
             githubURL: "https://github.com/parkmee/burger"
