@@ -92,7 +92,14 @@ $(document).ready(function () {
             imgURL: "friend-finder.PNG",
             gameURL: "https://friend-finder-mmp.herokuapp.com/",
             githubURL: "https://github.com/parkmee/friend-finder"
-        }
+        },
+        {
+            title: "It's Burger Time",
+            description: "Add a burger. Eat a burger. Demonstrates use of MySQL, custom ORMs, and Heroku.",
+            imgURL: "burger-app.PNG",
+            gameURL: "https://me-eat-burger.herokuapp.com/",
+            githubURL: "https://github.com/parkmee/burger"
+        },
     ]
 
 
