@@ -62,8 +62,8 @@ $(document).ready(function () {
             title: "DishIt",
             description: "Feed your food craving. Search for and rate dishes at restaurants in your area.",
             imgURL: "dishit.PNG",
-            gameURL: "https://mjkelley354.github.io/DishIt/",
-            githubURL: "https://github.com/mjkelley354/DishIt",
+            gameURL: "https://parkmee.github.io/DishIt/",
+            githubURL: "https://github.com/parkmee/DishIt",
         },
         {
             title: "LIRI Bot",
@@ -106,6 +106,13 @@ $(document).ready(function () {
             imgURL: "gift-fetcher.PNG",
             gameURL: "https://gift-fetcher.herokuapp.com/",
             githubURL: "https://github.com/parkmee/gift-fetcher"
+        },
+        {
+            title: "Mongoose News Scraper",
+            description: "News aggregator using a web scraper that allows users to mine, bookmark, delete, and comment upon news articles.",
+            imgURL: "mongoose-scraper.PNG",
+            gameURL: "https://mongoose-scraper-2019.herokuapp.com/",
+            githubURL: "https://github.com/parkmee/mongoose-scraper"
         },
     ]
 

@@ -131,3 +131,26 @@ Chronological list of projects developed during the progress of the MERN FullSta
     * ESLint
     * Prettier
     * Travis CI
+* Mongoose News Scraper - News aggregator using a web scraper that allows users to mine, bookmark, delete, and comment upon news articles.
+  *  HTML
+  * CSS
+  * Javascript
+  * JQuery
+  * Materialize
+  * Bootstrap
+  * FontAwesome
+  * Google Fonts
+  * Heroku
+  * Node.js
+  * Node packages
+      * MySQL
+      * Express
+      * Express-handlebar
+      * Moment-handlebar
+      * Cheerio
+      * Axios
+      * Morgan
+  * Database
+    * MongoDB
+    * Mongoose
+    * mLab
