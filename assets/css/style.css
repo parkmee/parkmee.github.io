@@ -135,3 +135,20 @@ form {
 .project-title {
     color: ghostwhite;
 }
+
+.scroll-down {
+    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+    width: 5%;
+    margin: 10px auto;
+}
+
+.scroll-down:hover {
+    -webkit-transform: translate(0,7em);
+    -moz-transform: translate(0,7em);
+    -o-transform: translate(0,7em);
+    -ms-transform: translate(0,7em);
+    transform: translate(0,7em);
+}
