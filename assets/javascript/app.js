@@ -100,13 +100,13 @@ $(document).ready(function () {
             gameURL: "https://me-eat-burger.herokuapp.com/",
             githubURL: "https://github.com/parkmee/burger"
         },
-        {
+        /* {
             title: "Gift Fetcher",
             description: "Virtual shopping assistant to help you remember gift ideas and preferences for your loved ones for every special occasion.",
             imgURL: "gift-fetcher.PNG",
             gameURL: "https://gift-fetcher.herokuapp.com/",
             githubURL: "https://github.com/parkmee/gift-fetcher"
-        },
+        }, */
         {
             title: "Mongoose News Scraper",
             description: "News aggregator using a web scraper that allows users to mine, bookmark, delete, and comment upon news articles.",
