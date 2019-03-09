@@ -137,18 +137,6 @@ form {
 }
 
 .scroll-down {
-    /* -webkit-transition: 1s ease-in;
-    -moz-transition: 1s ease-in;
-    -o-transition: 1s ease-in;
-    transition: 1s ease-in; */
     width: 5%;
     margin: 20px auto;
 }
-
-/* .scroll-down:hover {
-    -webkit-transform: translate(0,7em);
-    -moz-transform: translate(0,7em);
-    -o-transform: translate(0,7em);
-    -ms-transform: translate(0,7em);
-    transform: translate(0,7em);
-} */
